@@ -5,9 +5,9 @@
   "editor.lineHeight": 24,
   "[markdown]": {
     "editor.quickSuggestions": {
-        "comments": "on",
-        "strings": "on",
-        "other": "on"
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
     }
   },
   "files.defaultLanguage": "markdown",
@@ -26,4 +26,14 @@
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
+  "foam.graph.style": {
+    "background": "#202020",
+    "fontSize": 12,
+    "highlightedForeground": "#f9c74f",
+    "node": {
+      "note": "#277da1",
+      "placeholder": "#545454",
+      "feature": "green",
+    }
+  }
 }
