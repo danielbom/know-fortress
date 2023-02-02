@@ -1,3 +1,7 @@
+---
+tags: programming
+---
+
 # Actor Model
 
 * Wikipedia: [Actor Model](https://en.wikipedia.org/wiki/Actor_model)

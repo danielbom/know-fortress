@@ -1,3 +1,7 @@
+---
+tags: programming
+---
+
 # Array programming
 
 * Wikipedia: [Array progrraming](https://en.wikipedia.org/wiki/Array_programming)
