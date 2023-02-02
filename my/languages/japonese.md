@@ -1,4 +1,4 @@
-# Songs
+# Japonese Songs
 
 - Masquerade - ClariS: Ending of 2 season of "Shadows House". [youtube](https://www.youtube.com/watch?v=fx7eK9CL2YA&ab_channel=KadzerAS); [letra](https://www.letras.mus.br/claris/masquerade/); [anime](https://animeszone.net/anime/shadows-house-2-temporada/)
 - Red Swan: Attack on Titan anime theme. [youtube](https://www.youtube.com/watch?v=r1XE8ON8fos&ab_channel=Yoshiki)
