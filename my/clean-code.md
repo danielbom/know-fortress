@@ -1,7 +1,5 @@
 ---
-tags:
-- programming
-- clean-code
+tags: programming, clean-code
 ---
 
 # Código Limpo - Habilidades Práticas do Agile Software

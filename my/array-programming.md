@@ -1,5 +1,5 @@
 ---
-tags: programming
+tags: programming, array-paradigm
 ---
 
 # Array programming
