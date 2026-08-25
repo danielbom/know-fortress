@@ -13,10 +13,9 @@ tags: programming, functional-paradigm
 
 ## Project examples
 - monadic-js: [github](https://github.com/lambdaydoty/monadic-js)
-- coppa-app-engine: [github](https://github.com/dominicci/coppa-app-engine/)
 - prism: [github](https://github.com/stoplightio/prism)
 
 ## Read
 
 - DaoFP: [github](https://github.com/BartoszMilewski/DaoFP)
-
+- Books: [github](https://github.com/Tintbit/Azat-cs_books)
