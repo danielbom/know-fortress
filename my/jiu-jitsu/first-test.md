@@ -1,0 +1,38 @@
+---
+tags: jiu-jitsu
+---
+
+- **100 quilos**: posicionamento
+- **Montada**: posicionamento
+- **Kimura dos 100 quilos**: chave de ombro
+- **América**: chave de ombro
+- **Armlock da montada**: chave de braço
+- **Armlock da guarda fachada**: chave de braço
+- **Kimura da guarda fechada**: chave de ombro
+- **Passagem da guarda fechada**: abrir a guarda
+- **Raspagem da guarda fechada**: inverter a guarda
+- **Raspagem da guarda borboleta**: inverter a guarda
+- **Raspagem da guarda aranha**: inverter a guarda
+- **Raspagem da guarda cadeirinha**: inverter a guarda
+- **Raspagem da guarde delarriva**: inverter a guarda
+- **Botinha reta**: chave de pé
+- **Triângulo partindo da guarda fechada**: estrangulamento com as pernas
+- **Estrangulamento básico de dentro da guarda**: estrangulamento amassa pão
+- **Ezequiel**: estrangulamento com o kimono
+- **Horácio**: estrangulamento com o kimono
+- **Relógio**: estrangulamento na tartaruga
+- **Crucifixo**: imobilização
+- **Triângulo de mão na guarda tartaruga**: estrangulamento usando a lapela
+- **Mata leão a partir das costas**: estrangulamento com o braço
+- **Estrangulamento a partir das costas (lapela do oponente)**: estrangulamento com a lapela do oponente
+- **Pontuações**: competição
+- **Mão de vaca**: torção do punho
+- **Variação de golpes**: adaptações e combinações de posição
+- **Armlock a partir das costas do oponente na guarda tartaruga**: chave de braço
+- **Saída da meia guarda**: defesa
+- **Defesa do mata leão**: defesa
+- **Defesa do Triângulo**: defesa
+- **Defesa do Armlock da montada**: defesa
+- **Omoplata**: chave de ombro com as pernas
+- **Defesa do omoplata**: defesa
+- **Katagatame**: estrangulamento com o braço do oponente
